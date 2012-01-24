@@ -1,0 +1,3 @@
+.csstransitions.csstransforms .deck-container:not(.deck-menu) > .slide .deck-before, .csstransitions.csstransforms .deck-container:not(.deck-menu) > .slide .deck-previous {
+  opacity: 1;
+}
